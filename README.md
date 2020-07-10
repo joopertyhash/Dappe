@@ -4,6 +4,7 @@ Decentralized Payment Gateway as a Multilplatform Decentralized Application
 MIT License
 
 Copyright (c) 2017 Luis Campos Yafar
+
 Copyright (c) 2020 Aton Technology
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
